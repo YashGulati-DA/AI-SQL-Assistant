@@ -43,6 +43,7 @@ Final Answer
 - Local LLM using Ollama
 - Dynamic business questions
 - Olist Brazilian E-Commerce dataset
+- Interactive Streamlit web interface
 
 ## Technologies Used
 
